@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VacancySearch/static/css/main.af1429f1.css",
+    "main.js": "/VacancySearch/static/js/main.190c79d1.js",
+    "static/js/787.06214385.chunk.js": "/VacancySearch/static/js/787.06214385.chunk.js",
+    "index.html": "/VacancySearch/index.html",
+    "main.af1429f1.css.map": "/VacancySearch/static/css/main.af1429f1.css.map",
+    "main.190c79d1.js.map": "/VacancySearch/static/js/main.190c79d1.js.map",
+    "787.06214385.chunk.js.map": "/VacancySearch/static/js/787.06214385.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af1429f1.css",
+    "static/js/main.190c79d1.js"
+  ]
+}
