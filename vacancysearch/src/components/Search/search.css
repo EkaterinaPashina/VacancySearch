@@ -1,0 +1,36 @@
+.search__wrap {
+    width: 60vw;
+    max-width: 1160px;
+    margin: auto;
+}
+
+.search__form {
+    width: 55vw;
+    margin-top: 24px;
+
+    background-color: #eff0f0;
+    border-radius: 12px;
+    padding: 5px 10px;
+
+    display:flex;
+    justify-content: space-between;
+}
+
+.search__input {
+    background-color: #eff0f0;
+    border: 1px solid transparent;
+    padding: 5px;
+    outline: none;
+    width: 20vw;
+}
+
+input[type="submit"] {
+    border:none;
+
+    width: 1rem;
+
+    background:url('search.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}

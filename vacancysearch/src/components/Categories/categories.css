@@ -1,0 +1,10 @@
+.categorie__all {
+    font-weight: 700;
+    margin-top: 2rem;
+    cursor: pointer;
+}
+
+.category__name {
+    margin-top: 30px;
+    cursor: pointer;
+}
